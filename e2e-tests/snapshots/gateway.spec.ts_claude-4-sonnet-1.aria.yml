@@ -1,0 +1,4 @@
+- paragraph: "[dump] tc=gateway-simple"
+- paragraph: "[[spawn-dump-path=*]]"
+- button "Retry":
+  - img

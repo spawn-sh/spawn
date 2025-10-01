@@ -1,0 +1,4 @@
+- paragraph: "[dump] tc=turbo-edits"
+- paragraph: "[[spawn-dump-path=*]]"
+- button "Retry":
+  - img

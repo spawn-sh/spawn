@@ -1,0 +1,4 @@
+- paragraph: "[dump]"
+- paragraph: "[[spawn-dump-path=*]]"
+- button "Retry":
+  - img

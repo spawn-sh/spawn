@@ -1,0 +1,4 @@
+- main:
+  - heading "Blank page" [level=1]
+- link "Made with Spawn":
+  - /url: https://www.spawn.sh/

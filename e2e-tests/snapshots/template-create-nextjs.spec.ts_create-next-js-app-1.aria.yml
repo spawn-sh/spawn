@@ -1,0 +1,7 @@
+- main:
+  - heading "Blank page" [level=1]
+- link "Made with Spawn (EDITED)":
+  - /url: https://www.spawn.sh/
+- alert
+- button "Open Next.js Dev Tools":
+  - img
